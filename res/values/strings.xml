@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="pref_name">Settings</string>
+    <string name="app_name">DandandinRSS</string>
+    <string name="app_title">Dandandin in just one app!</string>
+    <string name="app_description">Dandandin\'s world in just one easy app!</string>
+    <string name="email">Email: mail@dandandin.it</string>
+    <string name="website">http://www.dandandin.it</string>
+    <string name="contact">http://www.facebook.com/dandandin</string>
+</resources>
