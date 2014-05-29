@@ -2,6 +2,7 @@ package it.dandandin.rss;
 
 import android.app.Activity;
 import android.os.Bundle;
+import net.dandandin.rss.R;
 
 public class DandandinRSSActivity extends Activity {
     /** Called when the activity is first created. */

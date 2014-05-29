@@ -4,6 +4,6 @@
         <title>RSS</title>
     </head>
     <body>
-        <outline text="Dandandin.it" title="Dandandin.it" htmlUrl="http://www.dandandin.it/" xmlUrl="http://feeds2.feedburner.com/itDandandin-Blog" type="rss"/>
+        <outline text="Dandandin.net" title="Dandandin.net" htmlUrl="http://www.dandandin.net/" xmlUrl="http://feeds.feedburner.com/enDandandin-Blog" type="rss"/>
     </body>
 </opml>
