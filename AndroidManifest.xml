@@ -52,8 +52,6 @@
         <meta-data android:name="splash_screen_duration" android:value="2000"/>
         <meta-data android:name="dynamic_mode" android:value="false"/>
         <meta-data android:name="show_update_startup_dialog" android:value="false"/>
-        <meta-data android:name="com.google.android.backup.api_key"
-    android:value="AEdPqrEAAAAITSY59uiw_t8jrhq9PD39jzPX4R0vHmZs7EKqbA" />
     </application>
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
