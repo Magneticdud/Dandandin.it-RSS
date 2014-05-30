@@ -1,33 +1,34 @@
-Language		English (U.S.) - Displayed in all marketplaces where translations are not provided.
+Language English (U.S.)
 Display Title:
-Dandandin.it RSS	
+Dandandin.net	
 
 Short description:
-Read Dandandin.it with ease, on your device! (Content is only in Italian language)
+Read Dandandin.net with ease, on your device!
 
 Long description:
-Dandandin.it is an Italian website about Japan, gadgets and similar stuff. Caveat emptor: while the user interface is in English, the content of this app is only in Italian.
+Dandandin.net is an blog/website about Japan, gadgets and similar stuff. Everything has been translated from Italian using “real life” translation, in order to give you the best result. The app is free and ad-free, what are you waiting for download it?
 
 Product feature bullets:
 • Read Dandandin.it with ease
 • Know everything about everything
 • You might never know what Dandandin will talk about
 
-Keywords: 	dandandin, news, rss
+Keywords:
+dandandin, news, rss
 
 ----------
 
-Language		Italian
+Language Italian
 Display Title:
-Dandandin.it RSS
+Dandandin.net (Inglese)
 
 Short description:
-Dandandin.it sempre a portata di mano!
+Dandandin.net sempre a portata di mano!
 
 Long description:
-Con questa app potrete leggere i contenuti di Dandandin.it in maniera estremamente pratica e veloce. L'app è gratuita e non contiene nessun banner pubblicitario, cosa volere di più? ;-)
+Con questa app potrete leggere i contenuti di Dandandin.net in maniera estremamente pratica e veloce. Quest’app è per la versione inglese del sito, quindi i contenuti non sono in italiano. Scarica la versione italiana nello store :)
 
 Product feature bullets:
-• Leggi Dandandin.it con facilità
+• Leggi Dandandin.net con facilità
 • Mantieniti aggiornato
 • Non indovinerai mai di che cosa parlerà mai Dandandin in futuro
